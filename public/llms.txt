@@ -1,0 +1,79 @@
+# הממלכה של Y.S.Z — Generative Engine Optimization Map
+
+> A business focused on squishies — soft, squeezable toy collectibles that are popular among kids and teens. The brand likely has a fun, playful, and colorful personality, appealing to a younger audience with a sense of whimsy and tactile delight.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לממלכה של Y.S.Z, הבית של צעצועי הסקווישי האיכותיים והאהובים. חפשו אחר דמויות מקסימות, מרקמים מפנקים ואוסף מתחדש שיגרום לכל ילד ובני נוער לחייך. התחילו ללחוץ עוד היום!
+
+### קולקציות
+https://example.com/collections
+דפדפו בין הקולקציות החדשות והמרגשות של סקווישים למכירה. מקטגוריות לפי נושא ועד דמויות נדירות במהדורה מוגבלת, זו ההזדמנות שלכם להעשיר את האוסף בממלכה של Y.S.Z. כנסו עכשיו לגלות אוצרות!
+
+### אודות
+https://example.com/about
+הממלכה של Y.S.Z נולדה מתוך אהבה אמיתית לסקווישים ולעולם הדמיון. למדו על החזון שלנו, התשוקה לצעצועי אספנות איכותיים, ולמה אנחנו היעד המושלם עבור אספנים צעירים שמחפשים כיף וצבע. בואו להיות חלק מהמשפחה!
+
+### צור קשר
+https://example.com/contact
+יש שאלה על דמות ספציפית או רוצים המלצה חמה? צרו קשר עם צוות הממלכה של Y.S.Z ונעזור לכם למצוא את הצעצוע הרך הבא לאוסף. אנחנו זמינים, ידידותיים ומחכים לשמוע מכם. שלחו הודעה עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הממלכה של Y.S.Z
+A business focused on squishies — soft, squeezable toy collectibles that are popular among kids and teens. The brand likely has a fun, playful, and colorful personality, appealing to a younger audience with a sense of whimsy and tactile delight.
+
+## Target Audience
+- אספנים נלהבים
+- קוני מתנות ייחודיות
+- צעירים יצירתיים
+- ילדים וילדות
+
+## Industry
+Retail / Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
